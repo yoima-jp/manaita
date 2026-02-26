@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "manaita:stone_manaita",
+    "manaita:iron_manaita",
+    "manaita:gold_manaita",
+    "manaita:diamond_manaita"
+  ]
+}
+

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "X X",
+    "YYY"
+  ],
+  "key": {
+    "X": "manaita:plate",
+    "Y": "minecraft:cobblestone"
+  },
+  "result": {
+    "id": "manaita:stone_manaita",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "manaita",
+	"version": "${version}",
+	"name": "Manaita",
+	"description": "Cutting board crafting multiplier mod.",
+	"authors": [
+		"yoima-jp"
+	],
+	"contact": {
+		"sources": "https://github.com/yoima-jp/manaita"
+	},
+	"license": "All-Rights-Reserved",
+	"icon": "assets/manaita/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"jp.yoima.manaita.ManaitaMod"
+		],
+		"client": [
+			"jp.yoima.manaita.client.ManaitaModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "itemGroup.manaita": "まな板",
+  "item.manaita.plate": "かなりまな板な板材",
+  "tooltip.manaita.plate": "まな板にしようぜ！",
+  "block.manaita.wooden_manaita": "木のまな板",
+  "block.manaita.stone_manaita": "石のまな板",
+  "block.manaita.iron_manaita": "鉄のまな板",
+  "block.manaita.gold_manaita": "金のまな板",
+  "block.manaita.diamond_manaita": "ダイヤのまな板",
+  "container.manaita": "まな板 (%sx)"
+}

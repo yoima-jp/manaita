@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "X X",
+    "YYY"
+  ],
+  "key": {
+    "X": "manaita:iron_manaita",
+    "Y": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "manaita:gold_manaita",
+    "count": 1
+  }
+}
