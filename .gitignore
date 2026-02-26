@@ -1,0 +1,26 @@
+# Legacy reverse-engineering reference (do not commit)
+/successor_mod_workspace/
+
+# Agent guide (do not commit)
+AGENTS.md
+
+# .gitignore itself (do not commit)
+.gitignore
+
+# Build artifacts
+/.gradle/
+**/build/
+**/out/
+**/run/
+
+# IDE / editor files
+/.idea/
+/.vscode/
+*.iml
+
+# OS / temp / logs
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
