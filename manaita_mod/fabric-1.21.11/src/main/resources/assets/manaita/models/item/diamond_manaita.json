@@ -1,4 +1,6 @@
 {
-  "parent": "manaita:block/diamond_manaita"
+  "parent": "manaita:item/manaita_board_held_base",
+  "textures": {
+    "board": "manaita:block/manaita_diamond"
+  }
 }
-
