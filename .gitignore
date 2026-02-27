@@ -1,10 +1,7 @@
-# Legacy reverse-engineering reference (do not commit)
 /successor_mod_workspace/
 
-# Agent guide (do not commit)
 AGENTS.md
 
-# .gitignore itself (do not commit)
 .gitignore
 
 # Build artifacts
