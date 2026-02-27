@@ -7,5 +7,7 @@
   "block.manaita.iron_manaita": "鉄のまな板",
   "block.manaita.gold_manaita": "金のまな板",
   "block.manaita.diamond_manaita": "ダイヤのまな板",
-  "container.manaita": "まな板 (%sx)"
+  "container.manaita": "まな板 (%sx)",
+  "advancements.manaita.quite_manaita.title": "かなりまな板だよコレ！",
+  "advancements.manaita.quite_manaita.description": "木のまな板を初めて作る"
 }
