@@ -1,11 +1,13 @@
 {
   "itemGroup.manaita": "Manaita",
-  "item.manaita.plate": "Quite Cutting Board Plate",
-  "tooltip.manaita.plate": "Make Cutting Board!",
-  "block.manaita.wooden_manaita": "Wooden Cutting Board",
-  "block.manaita.stone_manaita": "Stone Cutting Board",
-  "block.manaita.iron_manaita": "Iron Cutting Board",
-  "block.manaita.gold_manaita": "Gold Cutting Board",
-  "block.manaita.diamond_manaita": "Diamond Cutting Board",
-  "container.manaita": "Cutting Board (%sx)"
+  "item.manaita.plate": "Quite Manaita Plate",
+  "tooltip.manaita.plate": "Craft a Manaita!",
+  "block.manaita.wooden_manaita": "Wooden Manaita",
+  "block.manaita.stone_manaita": "Stone Manaita",
+  "block.manaita.iron_manaita": "Iron Manaita",
+  "block.manaita.gold_manaita": "Gold Manaita",
+  "block.manaita.diamond_manaita": "Diamond Manaita",
+  "container.manaita": "Manaita (%sx)",
+  "advancements.manaita.quite_manaita.title": "Now That's Quite a Manaita!",
+  "advancements.manaita.quite_manaita.description": "Craft a Wooden Manaita for the first time."
 }
