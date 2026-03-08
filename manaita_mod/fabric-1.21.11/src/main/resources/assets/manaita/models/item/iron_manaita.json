@@ -1,6 +1,6 @@
 {
-  "parent": "manaita:item/manaita_board_held_base",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "board": "manaita:block/manaita_iron"
+    "layer0": "manaita:block/manaita_iron"
   }
 }

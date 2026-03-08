@@ -1,0 +1,6 @@
+{
+  "parent": "manaita:block/manaita_hook_board_east_base",
+  "textures": {
+    "board": "manaita:block/manaita_gold_v"
+  }
+}

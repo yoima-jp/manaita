@@ -1,9 +1,8 @@
 {
   "variants": {
-    "facing=north": { "model": "manaita:block/gold_manaita" },
-    "facing=east": { "model": "manaita:block/gold_manaita", "y": 90 },
-    "facing=south": { "model": "manaita:block/gold_manaita", "y": 180 },
-    "facing=west": { "model": "manaita:block/gold_manaita", "y": 270 }
+    "facing=north": { "model": "manaita:block/gold_manaita_ns" },
+    "facing=south": { "model": "manaita:block/gold_manaita_ns", "y": 180 },
+    "facing=east": { "model": "manaita:block/gold_manaita_ew" },
+    "facing=west": { "model": "manaita:block/gold_manaita_ew", "y": 180 }
   }
 }
-

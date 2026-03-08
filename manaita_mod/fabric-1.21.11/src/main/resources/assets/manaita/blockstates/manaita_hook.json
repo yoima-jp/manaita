@@ -1,0 +1,33 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_empty" } },
+    { "when": { "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_empty", "y": 180 } },
+    { "when": { "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_empty", "y": 90 } },
+    { "when": { "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_empty", "y": 270 } },
+
+    { "when": { "board": "wooden", "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_board_wooden_north" } },
+    { "when": { "board": "wooden", "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_board_wooden_south" } },
+    { "when": { "board": "wooden", "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_board_wooden_east" } },
+    { "when": { "board": "wooden", "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_board_wooden_west" } },
+
+    { "when": { "board": "stone", "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_board_stone_north" } },
+    { "when": { "board": "stone", "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_board_stone_south" } },
+    { "when": { "board": "stone", "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_board_stone_east" } },
+    { "when": { "board": "stone", "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_board_stone_west" } },
+
+    { "when": { "board": "iron", "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_board_iron_north" } },
+    { "when": { "board": "iron", "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_board_iron_south" } },
+    { "when": { "board": "iron", "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_board_iron_east" } },
+    { "when": { "board": "iron", "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_board_iron_west" } },
+
+    { "when": { "board": "gold", "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_board_gold_north" } },
+    { "when": { "board": "gold", "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_board_gold_south" } },
+    { "when": { "board": "gold", "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_board_gold_east" } },
+    { "when": { "board": "gold", "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_board_gold_west" } },
+
+    { "when": { "board": "diamond", "facing": "north" }, "apply": { "model": "manaita:block/manaita_hook_board_diamond_north" } },
+    { "when": { "board": "diamond", "facing": "south" }, "apply": { "model": "manaita:block/manaita_hook_board_diamond_south" } },
+    { "when": { "board": "diamond", "facing": "east" }, "apply": { "model": "manaita:block/manaita_hook_board_diamond_east" } },
+    { "when": { "board": "diamond", "facing": "west" }, "apply": { "model": "manaita:block/manaita_hook_board_diamond_west" } }
+  ]
+}

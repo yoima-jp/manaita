@@ -1,0 +1,6 @@
+{
+  "parent": "manaita:block/manaita_board_ns_base",
+  "textures": {
+    "board": "manaita:block/manaita_gold_h"
+  }
+}

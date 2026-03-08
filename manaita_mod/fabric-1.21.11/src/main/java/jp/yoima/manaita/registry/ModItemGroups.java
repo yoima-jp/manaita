@@ -17,6 +17,7 @@ public final class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.PLATE))
                     .entries((context, entries) -> {
                         entries.add(ModItems.PLATE);
+                        entries.add(ModBlocks.MANAITA_HOOK);
                         entries.add(ModBlocks.WOODEN_MANAITA);
                         entries.add(ModBlocks.STONE_MANAITA);
                         entries.add(ModBlocks.IRON_MANAITA);

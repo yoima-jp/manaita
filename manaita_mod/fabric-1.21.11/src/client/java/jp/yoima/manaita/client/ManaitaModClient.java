@@ -11,4 +11,3 @@ public class ManaitaModClient implements ClientModInitializer {
         HandledScreens.register(ModScreenHandlers.MANAITA, CraftingScreen::new);
     }
 }
-

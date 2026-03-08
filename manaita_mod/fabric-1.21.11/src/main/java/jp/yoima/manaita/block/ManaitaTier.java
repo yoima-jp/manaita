@@ -1,5 +1,7 @@
 package jp.yoima.manaita.block;
 
+import net.minecraft.item.ItemStack;
+
 public enum ManaitaTier {
     WOODEN("wooden", 2),
     STONE("stone", 4),
@@ -22,5 +24,8 @@ public enum ManaitaTier {
     public int getMultiplier() {
         return this.multiplier;
     }
-}
 
+    public static ManaitaTier fromBoardStack(ItemStack stack) {
+        return jp.yoima.manaita.registry.ModBlocks.tierForBoard(stack);
+    }
+}
